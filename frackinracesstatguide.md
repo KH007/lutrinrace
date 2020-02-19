@@ -13,7 +13,7 @@ Their larger lungs (I am willing to change how much air they have.)
 Their slower speed (higher mass means slower movement speed.)
 
 ```diff
-Diet: Semi-Carnivore, and the fresher the food, the better... for the most part. They can handle fruits, they just won't get any bonuses from them.
+Diet: Semi-Carnivore, and the fresher the food, the better... for the most part. They can handle fruits, but they don't handle other plant-based foods well.
 Large Profile (5 blocks tall) [Vanilla]. You may have to force the untransforming at times, as a heads-up. Just hold the tech key and it'll do it after a second or two.
 - 5% speed penalty
 + 20% Max Health
