@@ -6,11 +6,17 @@ Lutrin are intended to be large and slightly slow, but to excel when it comes to
 
 their big hitbox (this one's final.)
 
+their diet (this one's final, too.)
+
 the fact that they have a high metabolism (I am willing to change how fast they burn calories.)
 
 Their larger lungs (I am willing to change how much air they have.)
 
 Their slower speed (higher mass means slower movement speed. How slow can change, but they've still gotta be slower.)
+
+Their increased Health and Power stats. (same reason as above, as more muscle mass means more power behind their strikes and more hits they can handle.)
+
+Their increased Protection. (Fur's a pretty good cushion against physical strikes.)
 
 ```diff
 Diet: Semi-Carnivore, and the fresher the food, the better... for the most part. They can handle fruits, but they don't handle other plant-based foods well.
