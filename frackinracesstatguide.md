@@ -16,7 +16,12 @@ Large Profile (5 blocks tall) [Vanilla]. You may have to force the untransformin
 - 25% max energy
 + 10% Attack Power
 + 10% Protection
++ 10% resistance to Ice attacks.
+- 10% vulnerability to Electric, Poison, and Darkness attacks.
+- 20% vulnerability to Cosmic and Radiation attacks.
+- 30% vulnerability to Fire attacks
 + Oxygen Capacity: 2000 units total
++ Swim Boost 2
 + 100% breath regen rate
 + 50% stomach capacity
 - Very high metabolism (double hunger point usage rate)
