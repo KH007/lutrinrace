@@ -1,0 +1,7 @@
+[
+  {
+    "op":"add",
+    "path":"/lutrinDescription",
+    "value":"This interface lets me communicate with the ship's AI, SAIL."
+  }
+]

@@ -1,0 +1,24 @@
+{
+  "config" : {
+    "shipUpgrades" : {
+      "capabilities" : ["teleport", "planetTravel", "systemTravel"],
+      "maxFuel" : 1000,
+      "crewSize" : 8
+    }
+  },
+
+  "backgroundOverlays" : [
+    {
+      "image" : "lutrinT6.png",
+      "position" : [3, 0],
+      "fullbright" : true
+    },
+    {
+      "image" : "lutrinT6lit.png",
+      "position" : [3, 0]
+    }
+  ],
+
+  "blockKey" : "blockKey.config:blockKey",
+  "blockImage" : "lutrinT6blocks.png"
+}

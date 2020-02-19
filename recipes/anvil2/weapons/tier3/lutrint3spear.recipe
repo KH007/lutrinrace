@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 8 },
+    { "item" : "leather", "count" : 6 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "lutrint3spear", "count" : 1 },
+  "groups" : [ "craftinganvil2", "weapons", "all" ]
+}

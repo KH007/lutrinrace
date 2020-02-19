@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "refinedaegisalt", "count" : 8 },
+    { "item" : "syntheticmaterial", "count" : 6 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "lutrint5aspear", "count" : 1 },
+  "groups" : [ "craftingaccelerator", "weapons", "all" ]
+}

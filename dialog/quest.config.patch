@@ -1,0 +1,290 @@
+[
+  {
+    "op": "add",
+    "path": "/intimidate/intimidated/lutrin",
+    "value": {
+      "default": [
+        "Don't hurt me with that <item>! Tell <questGiver> I'll do anything!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/intimidate/notIntimidated/lutrin",
+    "value": {
+      "default": [
+        "You and <questGiver> don't scare me",
+        "Tell <questGiver> to come here and say that to my muzzle themself.",
+        "Yeah, no. That’s pathetic.",
+        "We’ll see who’s laughing when <questGiver> is begging to be let go..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted/lutrin",
+    "value": {
+      "default": [
+        "Oh ho ho, send my regards to <questGiver>.",
+        "Bribing me? Okay, great, tell <questGiver> I said thanks."
+      ],
+      "hylotl": [
+        "<questGiver> is lucky I wasn’t feeling a bit peckish... Might've interpreted you as part of the bribe if that were the case."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/giftAccepted2/lutrin",
+    "value": {
+      "default": [
+        "What does <questGiver> want from me...?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/bribe/requestAdditionToHouse/lutrin",
+    "value": {
+      "default": [
+        "This is great! Can you place it in my home for me?",
+        "This will go great in my home, can you put it somewhere nice?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted/lutrin",
+    "value": {
+      "default": [
+        "How kind of <questGiver>. Tell them I said thanks!",
+        "Thank you!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/giftAccepted2/lutrin",
+    "value": {
+      "default": [
+        "<questGiver> is a good friend of mine."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/gift/requestAdditionToHouse/lutrin",
+    "value": {
+      "default": [
+        "This is a great gift! Can you place it in my home for me?",
+        "This gift will go great in my home, can you put it somewhere nice?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/return_stolen/objectTaken/lutrin",
+    "value": {
+      "default": [
+        "I dug <item> out of the ground, fair and square."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collect_fine/fineCollected/lutrin",
+    "value": {
+      "default": [
+        "I don't want any trouble; I’ll pay the fine."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/collect_gift/giftProvided/lutrin",
+    "value": {
+      "default": [
+        "I hope <questGiver> is happy with <item>!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/request_craft/giftProvided/lutrin",
+    "value": {
+      "default": [
+        "I hope <questGiver> likes their new <item>, I made it with my own paws."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/borrow/giftProvided/lutrin",
+    "value": {
+      "default": [
+        "Here is the <item>, tell <questGiver> to look after it."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/extort/giftProvided/lutrin",
+    "value": {
+      "default": [
+        "Woah, woah!"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafting/lutrin",
+    "value": {
+      "default": [
+        "Great! One moment; I’ll be right back with it made."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/hat/crafted/lutrin",
+    "value": {
+      "default": [
+        "Thank you for being patient. Take this to <questGiver> for me, please."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafting/lutrin",
+    "value": {
+      "default": [
+        "Great! One moment; I’ll be right back with it made."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/helmet/crafted/lutrin",
+    "value": {
+      "default": [
+        "Thank you for waiting. Take this to <questGiver> for me, please."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/new_stock/trade/lutrin",
+    "value": {
+      "default": [
+        "Here is <questGiver>'s parcel. Please take it to them, if you would be so kind."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/kidnappersDead/lutrin",
+    "value": {
+      "default": [
+        "Thanks for saving me; that was too close for comfort.",
+        "I owe you one."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/followHome/lutrin",
+    "value": {
+      "default": [
+        "I'm a bit nervous after what just happened... Can you escort me to <questGiver>, please?"
+      ],
+      "hylotl":[
+        "Well, this is ironic, considering the relationship between our species... Mind bringing me back to <questGiver>, please? Don't worry, I won't pounce..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kidnapping/followHome/hylotl",
+    "value": {
+      "lutrin":[
+        "Well, this is ironic, considering the relationship between our species... I'm almost loath to ask this of a species mine is on harsh terms with, but would you please bring me back to <questGiver> quickly?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort/found/lutrin",
+    "value": {
+      "default": [
+        "Do you know the way to <questGiver>? Can guide me to them?"
+      ],
+      "hylotl":[
+        "Well, this is ironic, considering the relationship between our species... Mind guiding me to where <questGiver> is if you know the way, please? Don't worry, I won't pounce..."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort/found/hylotl",
+    "value": {
+      "lutrin":[
+        "Well, this is ironic, considering the relationship between our species... I'm almost loath to ask this of a species mine is on harsh terms with, but would you please guide me to <questGiver> quickly if you know the way to them?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/barter/trade/lutrin",
+    "value": {
+      "default": [
+        "Thanks for the goods. Here's <questGiver>'s <receivedItems>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort_trade/collectDelivery/lutrin",
+    "value": {
+      "default": [
+        "Do you have a parcel for me?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/escort_trade/provideDelivery/lutrin",
+    "value": {
+      "default": [
+        "Here’s your items."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npcs/assistantIntro/lutrin",
+    "value": {
+      "default": [
+        "Heyo! <questGiver> is a good friend of mine, they sent me to help you deal with <enemy>."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npc/surrender/lutrin",
+    "value": {
+      "default": [
+        "Put away your weapon; I yield."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/kill_npc/betray/lutrin",
+    "value": {
+      "default": [
+        "NOT!",
+        "You’re too naive to be a bounty hunter, you know that?"
+      ]
+    }
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "objectName" : "lutrinbannersmall",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+
+  "description" : "A small wall banner from a lutrin academy.",
+  "shortdescription" : "Small Lutrin Wall Banner",
+  "race" : "lutrin",
+
+  "apexDescription" : "This banner is small...",
+  "avianDescription" : "A small banner! Charming!",
+  "floranDescription" : "Floran likesss thisss ssomewhat.",
+  "glitchDescription" : "Charmed. A small lutrin banner...",
+  "humanDescription" : "The lutrin banner is quite lovely.",
+  "hylotlDescription" : "The banner is somewhat unnerving...",
+  "novakidDescription" : "This would look great in my house.",
+  "lutrinDescription" : "Reminds me of home...",
+
+
+  "inventoryIcon" : "lutrinbannersmallicon.png",
+  "orientations" : [
+    {
+      "image" : "lutrinbannersmall.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}

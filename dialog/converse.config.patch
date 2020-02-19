@@ -1,0 +1,354 @@
+[
+	{
+		"op": "add",
+		"path": "/greeting/lutrin",
+		"value": {
+			"default": [
+				"Hello!",
+				"Heya!",
+				"ru teanire.",
+				"hil teanire dewari."
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/lutrin",
+		"value": {
+			"default": [
+				"Heya!",
+				"Greetings, visitor.",
+				"Hello, stranger.",
+				"Um... hi."
+			],
+			"generic": [
+				"It’s OK, I don’t bite... usually.",
+				"We don't get too many visitors out here.",
+				"Why are you here?",
+				"..."
+			],
+			"apex": [
+				"You seem to be related to Humans, for some reason.",
+				"Good luck throwing off the Miniknog’s autocratic chains, primate.",
+				"So, which faction are you a part of? Don't worry, I won't tell anyone.",
+				"So, I've heard that you Apex can roar as well. Is it true?",
+				"The Miniknog have no authority here. Any attempt by them to enforce their laws on our turf will likely result in hostility between our government and that autocracy."
+			],
+			"avian": [
+				"There are rabbit items in your tombs, why is that?",
+				"Your beak is a bit too close to my face for your own safety...",
+				"Why are you still led by your priests? Our race threw off the chains of a theocracy centuries ago.",
+				"I'm kinda interested in learning more about your religion... mind telling me when and where the next ceremony will be?",
+				"Are you one of the Grounded, or are you a devout follower of Kluex? Don't worry, I won't tell anyone."
+			],
+			"floran": [
+				"Does your plant matter feel pain?",
+				"I find your rustling to be somewhat soothing. Odd, considering our peoples’ relationship with each other...",
+				"Do you turn yellow in the Autumn months? Because that’s the color most representative of your kind.",
+				"Maybe if you hadn’t targeted our ecological niche, things might be friendlier between our peoples.",
+				"Hel- Oh, great, someone let the flower out of the garden. Anyone got a trowel?",
+				"Watch your step, leaf-man... I bite back when attacked.",
+				"Florans... even now, they're still washing up on our doorstep.",
+				"Why don't you make like a tree and leaf?",
+				"If it weren't for that little war your kind and ours had, I'd challenge you to a hunt.",
+				"Do I need to get out the fire, or are you able to behave yourself around here?",
+				"I will admit, Sunflower Tsu of your kind did somewhat have a point when he mentioned that hunting was fun. Stupid treaty with the Hylotl...",
+				"Say, when's the next Ceremonial hunt happening? I'm interested in competing..."
+			],
+			"human" : [
+				"Hello, fur-less one.",
+				"A fur-less primate... interesting, but not unexpected, thanks to how many planets there are.",
+				"So... how many of you are left, after what happened with... Oh, I'm sorry, that's probably a bit too recent.",
+				"My condolences about the loss of Gaia...",
+				"Are you from the Sol system, or from one of the colonies?"
+			],
+			"hylotl" : [
+				"I am sooo tempted to break our peoples’ treaty right about now, ino...",
+				"Need a drink?",
+				"The only thing standing between you and me is a flimsy piece of paper that’s not even here... you’re lucky words are so powerful.",
+				"Don't worry, I just ate. You're not in any risk of being on the menu... for now, at least.",
+				"Rrgh... Must... resist... instincts...",
+				"Why do I smell something tasty?",
+				"You might want to get a move on before you tempt me too much, ino...",
+				"Please, for your own safety, keep your distance; you're making me hungry!",
+				"Please back off a bit, ino, you're playing it a bit dangerously by being near me...",
+				"At least we can agree that Florans are a nuisance.",
+				"Y'know, as annoying as the treaty our people have with yours is, it does bode well for relations between your people and the Florans. If the plant-men can become more literate, that is. I heard that the Glitch were working on that at some point?",
+				"I hear Hiraki is up to her old mischief again. Although, I feel like she'll probably avoid this area regardless due to the presence of my people."
+			],
+			"novakid" : [
+				"Nice glow.",
+				"How do you see?",
+				"Where do you come from?",
+				"You’re new here, that’s for sure.",
+				"Wow, you're bright... nearly blinded myself, there.",
+				"Hey, next time you get an idea that's as bright as you are, perhaps record yourself following through on it with a video camera? Well, that or get an assistant who'll note down what you do."
+			],
+			"avali" : [
+				"F-feeling a bit light-headed...",
+				"Why do I have a headache...?",
+				"Huh? Who opened the blea- Oh, there's an Avali nearby. Sorry about not noticing you; you're quite small compared to me...",
+				"Whuh... dizzy...",
+				"Heya, tiny fluffy ice raptor!",
+	      "You've got some rather aesthetically-pleasing patterns, you know that?",
+				"Omigosh, you're so FLUFFY!!! >w<",
+				"You feeling up to finding a Floran and going on a hunt with myself and them?",
+				"Why do I smell ammonia?",
+				"Yes, your relationship with the Humans is similar to our relationship with both the Hylotl and Florans. No, that doesn't give you the right to throw stones from that glass house of yours.",
+				"You want to trade notes on your biochemistry for notes on ours? I'm really interested in what makes your kind tick...",
+				"You do realize that now that the humans have lost Gaia, you two have far more in common than you'd like to admit, right?",
+				"If I hear you make that comment about the violin towards humans one more creator-darn time, I'm going to grab it and use it to bludgeon you.",
+				"So, is there any way for a non-Avali to gain access to the Nexus?",
+				"Oi, chilly boy, knock it off with the teasing of the humans unless you want me to get out the squirt bottle.",
+				"Urgh... need fresh air...",
+				"Say, where's the rest of your pack? Last I knew, you ice-raptors traveled in practically-inseparable groups..."
+			],
+			"Attarran" : [
+				"Heya, little cousin! How ya doing?",
+				"Hiya, smaller one! Good to see a fellow otter species doing well!",
+				"You feeling up for going on a fishing trip?",
+				"I'm sorry, but I have a really hard time distinguishing between juveniles of my species and adults of yours... guess it's just a fact of how our kinds are so similar, huh?",
+				"Do our races have a common ancestry?",
+				"Greetings, smaller otter!",
+				"Welcome!",
+				"I find it interesting that at least three of the known races have strong ties to the ocean.",
+				"Glory to Attarra and Nufir!",
+	      "You up for a sparring match at some point? I'd love to learn a few pointers from someone smaller and more agile than myself.",
+				"You feeling up for some swimming, or is your schedule full?"
+			],
+			"callistan":[
+				"Safe travels, wolf-person."
+			],
+			"candavaswebber":[
+				"...Just what the hey are you?"
+			],
+			"cat":[
+				"Strange, this cat seems like it's got more intent than most...",
+				"I don't think this cat's a stray, but I don't see it having any signs of being owned..."
+			],
+			"eevee":[
+				"Huh, an Eevee. Didn't think there were many of them left after what happened to Gaia...",
+				"Safe travels, fox-of-change."
+			],
+			"familiar":[
+				"I see that your shard of Enlak is treating you well."
+			],
+			"fenerox":[
+				"Oh, hey, a Fenerox! nice to see your kind every now and again."
+			],
+			"fennix":[
+				"...Huh, so that's what you guys look like as humanoids. Interesting."
+			],
+			"fragmentedruin":[
+				"After what happened with Gaia, we kinda are on edge around the Ruin's relatives. You may be trustworthy due to seeming to be free-willed, though."
+			],
+			"fukirhos":[
+				"Any news regarding aid to the Apex to help get rid of the Miniknog?",
+				"Been a while since I've seen a Kirhos; thanks for the help in toppling our old, tyrannical religious government a few centuries back. Sure, it was only supportive, but the help was appreciated nonetheless."
+			],
+			"inkling":[
+				"You been to any Splatfests?",
+				"I find it interesting that at least three of the known races have strong ties to the ocean."
+			],
+			"kirhos":[
+				"Any news regarding aid to the Apex to help get rid of the Miniknog?",
+				"Been a while since I've seen a Kirhos; thanks for the help in toppling our old, tyrannical religious government a few centuries back. Sure, it was only supportive, but the help was appreciated nonetheless."
+			],
+			"lucario":[
+				"Huh, a Lucario. Didn't think there were many of them left after what happened to Gaia...",
+				"My condolences about the loss of Gaia.",
+				"May the aura guide you well in your travels!",
+				"I wish you safe travels, aura-jackal."
+			],
+			"munari":[
+				"I find it interesting that at least three of the known races have strong ties to the ocean.",
+				"You feeling up for some swimming, or is your schedule full?"
+			],
+			"neko":[
+				"...I can't really tell if you're human but with animal ears or a furless animal that lost its' snout."
+			],
+			"nightar":[
+				"Hello, fur-less one.",
+				"A fur-less primate... and one that's one with the dark, at that. interesting, but not unexpected, thanks to how many planets there are."
+			],
+			"ningen":[
+				"Hello, fur-less one.",
+				"A fur-less primate... interesting, but not unexpected, thanks to how many planets there are.",
+				"So... how many of you are left, after what happened with... Oh, I'm sorry, that's probably a bit too recent.",
+				"My condolences about the loss of Gaia...",
+				"Are you from the Sol system, or from one of the colonies?"
+			],
+			"novali":[
+				"F-feeling a bit light-headed...",
+				"Why do I have a headache...?",
+				"Huh? Who opened the blea- Oh, there's a Nova-Avali nearby. Sorry about not noticing you; you're quite small compared to me, even if you are rather bright...",
+				"Whuh... dizzy...",
+				"Heya, tiny glowy ice raptor!",
+				"You've got some rather aesthetically-pleasing colors, you know that?",
+				"Ooh, your light's nice...",
+				"You feeling up to finding a Novakid and going on a hunt with myself and them?",
+				"Why do I smell ammonium?",
+				"You want to trade notes on your biochemistry for notes on ours? I'm really interested in what makes your kind tick...",
+				"Urgh... need fresh air...",
+				"Say, where's the rest of your pack? Last I knew, you ice-raptors traveled in practically-inseparable groups... or do you Nova-avali not work like that?"
+			],
+			"orcana":[
+				"You feeling up for going on a fishing trip?",
+				"Hello, cetacean-person. How's the water?",
+				"I find it interesting that at least three of the known races have strong ties to the ocean.",
+				"You up for a sparring match at some point? I'd love to learn a few pointers from someone smaller and more agile than myself.",
+				"You feeling up for some swimming, or is your schedule full?"
+			],
+			"remorian":[
+				""
+			],
+			"rodent": [
+	      "No need to be nervous; I’m not hungry right now.",
+	      "So, in all seriousness, how quickly does your species replenish itself?",
+	      "You smell tasty...",
+	      "Sorry, I don't have any root vegetables or cheese on me... I don't have any peanut butter, either, or I'd gladly give you some of that."
+	    ],
+			"woggle":[
+				"Didn't know that there were still a few of you guys kickin' around.",
+				"I see that the most creative and powerful race out there is still holding up well.",
+				"Safe travels, creative one."
+			],
+			"zoroark":[
+				"Huh, a Zoroark. Didn't think there were many of them left after what happened to Gaia...",
+				"Safe travels, dark-fox."
+			],
+			"lutrin" : [
+				"Hello, fellow lutrin, I am glad to see you.",
+				"What's up, bud?",
+				"It's great to see another lutrin doing so well.",
+				"Welcome!",
+				"You up for some foraging?",
+				"So, you have any plans for today, or is your schedule open?",
+				"You up for a swim, or are you busy?"
+			]
+		}
+	},
+	{
+		"op": "add",
+		"path": "/converse/apex/lutrin",
+		"value": [
+			"Do I smell? Please let me know if I do.",
+			"The only reason we look like humans is pure coincidence.",
+			"Good day to you, my lutrin friend.",
+			"Don't sneak too much, otter. Miniknog is watching.",
+			"Your freedom fills me with joy, friend",
+			"Please keep your paws to yourself...",
+			"I hope that you don't have any fleas...",
+			"Not so loud near Big Ape's ears... he hears all.",
+			"Do you roar as well? I've heard rumors...",
+			"OK, now I kinda understand both the human turn of phrase \"now the shoe is on the other foot.\" and how other races feel when around an angry Apex.",
+			"..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/avian/lutrin",
+		"value": [
+			"While I admire your species devotion to tradition, why’d your race overthrow their religious government?",
+			"I wish I could fly.",
+			"You look so lovely and fluffy. Almost as fluffy as a rabbit...",
+			"I don't know about the rabbit items in our tombs.",
+			"Coo Coo",
+			"..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/floran/lutrin",
+		"value": [
+			"Floran greets sstranger.",
+			"Have nice day.",
+			"Hello, fuzzy sstranger.",
+			"How is sstranger person?",
+			"Why’d you sstart protecting your prey?",
+			"You sshould’ve allied with uss, fur-fish.",
+			"No bitey! Floran sstab bitey animals!",
+			"Can Floran help you?",
+			"Is sstranger ok?",
+			"..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/glitch/lutrin",
+		"value": [
+			"Eager. Salutations.",
+			"Welcoming. I will always welcome new friends!",
+			"Friendly. It is wonderful to meet you.",
+			"Excited. Yay! A new fuzzy friend!",
+			"Cordial. Hello my fine fuzzy fellow.",
+			"Surly. Hi...",
+			"Merry. Welcome, welcome, welcome!",
+			"Surprised. ..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/human/lutrin",
+		"value": [
+			"Wow, you’ve got soft fur.",
+			"You're so fluffy!",
+			"Do you eat a lot of fish?",
+			"Which star system are you originally from?",
+			"Can your kind eat vegetable matter, or are you obligate carnivores?",
+			"..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/hylotl/lutrin",
+		"value": [
+			"I got my 3 eyes on you.",
+			"You’d better honor our species' treaty...",
+			"You are overly fuzzy.",
+			"Your kind isn't very welcome here.",
+			"Don’t look at me like that; you’re making me nervous.",
+			"If you keep your end of the treaty, my friends and I will keep ours.",
+			"Do you make art?",
+			"Why is it that so many predatory species like going after hylotl?",
+			"..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/novakid/lutrin",
+		"value": [
+			"Howdy Howdy Howdy",
+			"Move along, pardner.",
+			"Howdy, my fuzzy lil' pardner.",
+			"I can tell that you ain't from around these parts.",
+			"Apologies if I made it hard to see, pardner... I can't help it if my kind glows.",
+			"You up for a shooting competition at some point?",
+			"..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/avali/lutrin",
+		"value": [
+			"Oh, sure, like you haven't lost your homeworld at one point as well...",
+			"Are you a... Oh, wait, you're an oven-planet species. Forget I was about to ask.",
+			"Why would I be interested in your biochemistry? We already learned about it from The Oracle.",
+			"Jeez, you non-ammonia creatures are incredibly inquisitive...",
+			"..."
+		]
+	},
+	{
+		"op": "add",
+		"path": "/converse/Attarran/lutrin",
+		"value": [
+			"Hiya, mountain-cousin! How ya doing?",
+			"You feeling up for going on a fishing trip?",
+			"Hello, bigger otter!",
+			"How'd you grow so big and strong?",
+			"Have any interesting fishing tales?",
+			"Good day!",
+			"Wow, you're massive!"
+		]
+	}
+]

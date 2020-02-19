@@ -1,0 +1,13 @@
+[
+  {
+    "op": "add",
+    "path": "/converse/lutrin",
+    "value": {
+      "default": [
+        "This uniform's a bit tight...",
+        "Howdy.",
+        "Seen any good outfits lately? I'm asking for a friend."
+      ]
+    }
+  }
+]

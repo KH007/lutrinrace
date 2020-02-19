@@ -1,0 +1,10 @@
+{
+  "name" : "lutrineffect1",
+
+  "effectConfig" : {},
+
+  "animationConfig" : "lutrineffect1.animation",
+
+  "label" : "Ewwww",
+  "icon" : "lutrineft1icon.png"
+}

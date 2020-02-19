@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 3 },
+    { "item" : "canvas", "count" : 2 }
+  ],
+  "output" : { "item" : "lutrintier5msword", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

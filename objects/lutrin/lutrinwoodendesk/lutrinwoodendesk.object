@@ -1,0 +1,38 @@
+{
+  "objectName" : "lutrinwoodendesk",
+  "colonyTags" : ["lutrin","storage","commerce"],
+  "rarity" : "Common",
+  "objectType" : "container",
+  "tooltipKind" : "container",
+  "description" : "An expensive-looking wooden desk.",
+  "shortdescription" : "Wooden Desk",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 100,
+  "health" : 1.5,
+  "apexDescription" : "A solid, large wooden desk. A bit big...",
+  "avianDescription" : "A table to work at if one has lots of things to do. I feel like a fledgeling relative to this one...",
+  "floranDescription" : "Floran not sssit at desskss!",
+  "glitchDescription" : "Calm. A large place to process large quantities of data.",
+  "humanDescription" : "A nice wooden desk. I don't have much in the way of paperwork to complete. Seems a bit large, but whatever.",
+  "hylotlDescription" : "A desk at which you can undergo written tasks. Strangely large, though.",
+  "novakidDescription" : "I ain't got time to sit around at a desk, particularly not one as big as this.",
+  "lutrinDescription" : "A serviceable desk if one needs to do paperwork.",
+  "inventoryIcon" : "lutrinwoodendeskicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lutrinwoodendesk.png:<color>",
+      "imagePosition" : [-16, 0],
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+    }
+  ],
+
+  "openSounds" : [ "/sfx/objects/woodenbox_open.ogg" ],
+  "closeSounds" : [ "/sfx/objects/woodenbox_close.ogg" ],
+  "slotCount" : 12,
+  "uiConfig" : "/interface/chests/chest<slots>.config",
+  "frameCooldown" : 5,
+  "autoCloseCooldown" : 3600
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 8 },
+    { "item" : "silk", "count" : 6 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "lutrint4spear", "count" : 1 },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

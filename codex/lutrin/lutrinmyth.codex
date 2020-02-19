@@ -1,0 +1,15 @@
+
+{
+  "id" : "lutrinmyth",
+  "species" : "lutrin",
+  "title" : "A myth from the Lutrin race.",
+  "description" : "One of the lost tales of the Lutrin People.",
+  "icon" : "lutrinmythcover.png",
+  "contentPages" : [
+    "Angels are real. We know because we are descended from them. Long ago, our ancestors survived an explosion of a mountain of fire and a falling star, though only just. As the chaos settled back into order, the skies were darkened with clouds for many days, the waters turned dark, and famine struck. In the midst of this crisis, beings of beauty that were like us and yet weren't us came from the heavens, and showed us a new way of life that proved to be the way for survival."
+  ],
+  "itemConfig" : {
+    "rarity" : "common",
+    "price" : 25
+  }
+}

@@ -1,0 +1,15 @@
+[
+	{
+		"op" : "add",
+		"path" : "/paneLayout/speciesTabs/buttons/-",
+		"value" : {
+          "position" : [4, 8],
+          "baseImage" : "/interface/codex/tab_lutrin.png",
+          "baseImageChecked" : "/interface/codex/tab_lutrin_select.png",
+          "pressedOffset" : [0, 0],
+          "data" : {
+            "species" : "lutrin"
+          }
+        }
+	}
+]

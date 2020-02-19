@@ -1,0 +1,43 @@
+{
+  "objectName" : "lutrinshiplockerTier0",
+  "colonyTags" : ["lutrin","storage"],
+  "printable" : false,
+  "rarity" : "Common",
+  
+  "category" : "decorative",
+  "description" : "A locker. Store some stuff, why don't you?",
+  "shortdescription" : "Shiplocker",
+  "race" : "lutrin",
+  
+  "lightColor" : [102, 61, 61],
+
+  "apexDescription" : "Lutrin storage locker. It's not currently functional.",
+  "avianDescription" : "A locker, for storing lots of useful items. It's broken at the moment.",
+  "floranDescription" : "Ssstorage. It'sss not working.",
+  "glitchDescription" : "Distressed. This ship's storage system is malfunctioning.",
+  "humanDescription" : "A Lutrin storage hatch. It doesn't seem to be working.",
+  "hylotlDescription" : "Storage. It's not currently powered.",
+  "novakidDescription" : "A locker. Ain't much use 'til it's fixed.",
+  "lutrinDescription" : "Well, this is just perfect... Ship's storage is offline.",
+
+  "inventoryIcon" : "shiplockericonTier0.png",
+  "orientations" : [
+    {
+      "image" : "lutrinshiplockerTier0.png:<color>.<frame>",
+      "imagePosition" : [-16, -8],
+      "frames" : 8,
+      "animationCycle" : 1,
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+    }
+  ],
+
+  "animation" : "/objects/noisy/noisy.animation",
+
+  "scripts" : [
+    "/objects/noisy/noisy.lua"
+  ],
+  
+  "sounds" : [ "/sfx/interface/clickon_error.ogg" ]
+  
+}

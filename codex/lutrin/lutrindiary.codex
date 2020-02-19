@@ -1,0 +1,13 @@
+{
+	"id" : "lutrindiary",
+	"title" : "New Orders",
+	"description" : "A transmission from back home in Lemira.",
+	"icon" : "lutrincover.png",
+	"contentPages" : [
+    "With the most unfortunate loss of Gaia, your assignment has changed: Report back to HQ and deliver whatever technology that we have not made and that you have managed to recover to the research center. If you are still part of the Protector Force, you are to maintain your cover while doing so."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

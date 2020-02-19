@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/beacon/lutrin",
+    "value": {
+      "default": [
+        "I'm Back!",
+        "Back at last.",
+        "Need anything?"
+      ],
+      "lutrin": [
+        "Good day.",
+        "Hello there.",
+        "How’re ya doing?"
+      ]
+    }
+  },
+    {
+    "op": "add",
+    "path": "/rent/lutrin",
+    "value": {
+      "default": [
+        "A little from me to you.",
+        "I am happy to help.",
+        "Here, have this."
+      ]
+    }
+  }
+]

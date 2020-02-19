@@ -1,0 +1,9 @@
+{
+  "name" : "fullgrey",
+  "category" : "lutrinpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fullgrey.png"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "refinedferozium", "count" : 8 },
+    { "item" : "canvas", "count" : 6 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "lutrint5mspear", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+}

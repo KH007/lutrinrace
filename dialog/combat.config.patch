@@ -1,0 +1,106 @@
+[
+    {
+        "op": "add",
+        "path": "/cheerOn/lutrin",
+        "value": {
+            "default": [
+                "Hunt's on, boys!",
+                "They look like an easy target!",
+                "How fast do you think they'll go down?",
+                "Waste 'em!",
+                "Pummeling time!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/cantReach/lutrin",
+        "value": {
+            "default": [
+                "How's that fair; I can't reach you!",
+                "Unfair spot, man; get over here where I can hit you!",
+                "GET OVER HERE!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/outOfSight/lutrin",
+        "value": {
+            "default": [
+                "I can still smell you!",
+                "Show yourself, coward!",
+                "Hiding won't save you from me!",
+                "You may be out of my sight, but I know you're still here... somewhere.",
+                "You cheeky little thing, hiding in fear! Finish what you started now!"
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/lostTarget/lutrin",
+        "value": {
+            "default": [
+                "OK, where’d they go?",
+                "Hey, get back here!",
+                "Why'd you leave? I wasn't done!",
+                "When they return, they're in for a serious pummeling..."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/killedTarget/lutrin",
+        "value": {
+            "default": [
+                "Feh. Too easy.",
+                "Next victim, please.",
+                "What a rush!",
+                "Target down!",
+                "And that's that."
+            ]
+        }
+    },
+    {
+        "op": "add",
+        "path": "/attack/hylotl/lutrin",
+        "value": [
+            "I will take revenge for my ancestors!",
+            "Your treaty won't save you now!",
+            "Death to the ones who prey on our kind!",
+            "Your defeat will bring honor to my forebears, predatory scum!"
+        ]
+    },
+    {
+        "op": "add",
+        "path": "/attack/lutrin",
+        "value": {
+            "default": [
+                "*ROAR*",
+                "*GROWL*",
+                "CHAARRGE!",
+                "YAAAAH!!!",
+                "Death to those who oppose me!"
+            ],
+            "avian": [
+                "Time to test my mettle against a real challenge; you avians are great warriors!",
+                "En guarde!",
+                "Come at me, flightless bird!"
+            ],
+            "hylotl": [
+                "Treaty's no longer valid here; you're fair game!",
+                "You look too tasty to pass up, treaty or no treaty.",
+                "GET OVER HERE!",
+                "You're mine, snack!",
+                "Chow time soon!",
+                "*hungry predatory growl*"
+            ],
+            "floran": [
+                "All right, weed, you asked for it!",
+                "Time to get slicing and dicing!",
+                "Time to beat down the lawn clippings!",
+                "Looks like this hunt's of a quite dangerous game. All the more fun when I knock you down."
+            ]
+        }
+    }
+]

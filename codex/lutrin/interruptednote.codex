@@ -1,0 +1,14 @@
+{
+	"id" : "interruptednote",
+	"species" : "hylotl",
+	"title" : "Hastily-written note",
+	"description" : "It's written in a rather hard-to-read form of the writing, probably due to it looking like it was written in quite the hurry...",
+	"icon" : "/codex/floran/florancover7.png",
+	"contentPages" : [
+    "\"I was on a walk, and ended up catching whiff of what I can only attribute to one of the Beasts that used to fight us but ended up mitigating our losses in the Floran wars of aggresion, though this particular scent had a quality that awoke a nameless fear in me. If you are reading this, know that this area is\" ... The note suddenly stops with a torn edge that looks like it was made by a claw of some kind."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

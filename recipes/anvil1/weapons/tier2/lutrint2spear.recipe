@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 8 },
+    { "item" : "fabric", "count" : 6 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "lutrint2spear", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

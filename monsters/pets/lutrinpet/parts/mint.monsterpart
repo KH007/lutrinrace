@@ -1,0 +1,9 @@
+{
+  "name" : "mint",
+  "category" : "lutrinpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "mint.png"
+  }
+}

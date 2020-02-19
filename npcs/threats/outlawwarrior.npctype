@@ -1,0 +1,51 @@
+{
+  "type" : "outlawwarrior",
+  "baseType" : "hostile",
+
+  "dropPools" : [ "money" ],
+
+  "scriptConfig" : {
+    "dialog" : {
+      "attack" : {
+        "default" : {
+          "default" : [
+            "Attack!"
+          ]
+        },
+        "lutrin" : {
+          "default" : [
+            "You want a fight? Very well!",
+            "my swordsmanship is unparalleled!",
+            "This is our territory, and ours alone!",
+            "I've been trained by the best! You have no chance against me!"
+          ]
+        }
+      }
+    }
+  },
+
+  "matchColorIndices" : true,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "lutrintier2head", "parameters" : { "colorIndex" : [1] } }
+            ],
+            "chest" : [
+              { "name" : "lutrintier2chest", "parameters" : { "colorIndex" : [1] } }
+            ],
+            "legs" : [
+              { "name" : "lutrintier2pants", "parameters" : { "colorIndex" : [1] } }
+            ],
+            "primary" : [
+              "npcbroadsword"
+            ],
+            "sheathedprimary" : [
+              "npctungstenbow"
+            ]
+          }
+        ] ]
+    ]
+  }
+}

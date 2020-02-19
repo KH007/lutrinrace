@@ -1,0 +1,15 @@
+{
+	"id" : "lutrinnote",
+	"title" : "Small note",
+	"description" : "So this is what happened with the uniform. Huh.",
+	"icon" : "/codex/hylotl/hylotlcover3.png",
+	"contentPages" : [
+    "It's a handwritten note from one of my schoolmates with a small camera attached to the top of it, though the device is dead due to the batteries having died... Based on what it says and the signature at the bottom, the incident where the wrong uniform was in my locker must be Kenichi's handiwork, that meanie. He's why I'm glad there were fire extinguishers in the building that one time...",
+		"\"Just one final prank before we all got scattered amongst the stars; must've been embarassing to either go nude or wear something that didn't fit. No hard feelings because I returned your uniform to you eventually and how you're fuzzy enough to hide that stuff, right?\"...
+He got really lucky that I used this ship and survived the escape of Earth, otherwise I would've lost the uniform forever."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

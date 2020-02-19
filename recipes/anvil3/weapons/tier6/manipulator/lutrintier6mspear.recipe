@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "solariumstar", "count" : 8 },
+    { "item" : "lutrint5mspear", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "lutrint6mspear", "count" : 1 },
+  "groups" : [ "craftingmanipulator", "weapons", "all" ]
+}

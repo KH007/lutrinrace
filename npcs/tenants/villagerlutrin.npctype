@@ -1,0 +1,175 @@
+{
+  "type" : "villagerlutrin",
+  "baseType" : "villager",
+  
+  "scriptConfig" : { 
+	"questGenerator" : {
+      "pools" : ["common", "tenant"],
+      "enableParticipation" : true,
+	  
+	  "timeLimit" : 30,
+      "nearbyQuestLimit" : 2,
+      "nearbyQuestRange" : 50,
+      "chance" : 0.02
+    },
+    "dialog" : {
+      "tenant" : {
+        "grumbles" : {
+          "tagCriteria" : {
+			"default" : {
+			  "default" : [
+					"Pardon me, but could you please put that back? I was rather fond of it...",
+					"Put that back. Now.",
+					"Hey, that's mine!",
+					"Things have changed, and I don’t like it whatsoever."
+			  ]
+			}
+		  },
+          "enclosedArea" : {
+			"default" : {
+			  "default" : [
+					"Really, man? If you're gonna do something, at least make sure it's done properly!",
+					"OK, who built this place? it's quite drafty...",
+					"Oi, patch the hole in the room!",
+					"This isn’t how I wanted this; fix it now."
+			  ]
+			}
+		  },
+          "otherDeed" : {
+			"default" : {
+			  "default" : [
+					"Seriously?! I'm not gonna be roommates with another individual.",
+					"*sigh*... Really? And here I was, thinking that I'd finally get a room to myself...",
+					"Yeah, no. Take away that extra deed. I'd rather be alone at night, thankyouverymuch!",
+					"*GROWL*",
+					"*SNARL*"
+			  ]
+			}
+		  },
+          "severe" : {
+			"default" : {
+			  "default" : [
+					"Fix the problem, or I'm outta here.",
+					"I'm serious. Fix the problem now.",
+					"OK, this is starting to really bug me. Fix it now.",
+					"You can fix this, or fight me.",
+					"Fix what’s wrong here. Don’t make me bite you."
+			  ]
+			}
+		  },
+          "final" : {
+			"default" : {
+			  "default" : [
+					"Last chance to convince me to stay here by fixing the problem. There's another place a few systems over that's catching my eye at this point...",
+					"I'm half tempted to take up that other landlord's offer at this point, unless you fix the problem.",
+					"Forget this, I'm outta here!",
+					"Fine. You broke it, you gotta deal with the consequences. I’m out."
+			  ]
+			}
+          }
+		},
+        "arrivedHome" : {
+          "beacon" : {
+			"default" : {
+			  "default" : [
+					"Heyo! How're ya doing?",
+					"You pinged?",
+					"Yes?"
+			  ]
+			}
+		  },
+          "rent" : {
+			"default" : {
+			  "default" : [
+					"Here, have this as a token of my gratitude.",
+					"Thanks, have this for payment!",
+					"You pinged me for rent, and I reply in kind."
+			  ]
+			}
+          }
+		}
+      },
+      "flee" : {
+        "helpme" : {
+		  "default" : {
+			"default" : [
+					"Eeek! Get it away from me!",
+					"Run for your life!",
+					"Uwaaah! Flee!",
+					"AIGH!",
+					"Could use a little help here!",
+					"Ruuun!"
+			]
+		  }
+		},
+        "safe" : {
+		  "default" : {
+			"default" : [
+					"Thank goodness for peace and quiet.",
+					"And STAY down!",
+					"Ahh... normalcy once again."
+			]
+		  }
+        }
+	  },
+      "breakObject" : {
+		"default" : {
+		  "default" : [
+			"Put that back, you sonofa-!"
+		  ]
+		}
+	  },
+	  "greeting" : "/dialog/converse.config:greeting",
+	  "converse" : "/dialog/converse.config:converse",
+	  "accuse" : {
+		"default" : {
+		  "default" : [
+			"Pardon me, but why did you do that?",
+			"Call me suspicious, but I think you have something of mine...",
+			"Thief. Put that back."
+		  ]
+		}
+	  },
+	  "alert" : {
+		"default" : {
+		  "default" : [
+			"OK, who took the thing? I don't have it, so who does?",
+			"There's a thief afoot! Get 'em, guards!",
+			"Put that back, or I'll call the guards on you!"
+		  ]
+		}
+	  }
+    }
+  },
+  "disableWornArmor" : false,
+
+  "matchColorIndices" : false,
+  "items" : {
+    "override" : [
+      [0, [
+          {
+            "head" : [
+              { "name" : "lutrintophat", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrineyepatch", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrincheapbuds", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinmininghelmet", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinhawaiian", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinsafetyhelmet", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinsantahat", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinushanka", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinsombrero", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinheadset", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinnerdglasses", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "lutrinvisor", "parameters" : { "colorIndex" : [ 0 ] } },
+			  ""
+			],
+            "chest" : [
+              { "name" : "", "parameters" : { "colorIndex" : [ 0 ] } },
+			  { "name" : "", "parameters" : { "colorIndex" : [ 0 ] } },
+			  ""
+            ]
+          }
+        ] ]
+    ]
+  }
+}

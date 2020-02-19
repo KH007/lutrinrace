@@ -1,0 +1,35 @@
+{
+  "objectName" : "lutrinbannerlarge",
+  "rarity" : "Common",
+  "category" : "decorative",
+  "price" : 50,
+  "printable" : false,
+
+  "description" : "A large lutrin wall banner from a lutrin academy.",
+  "shortdescription" : "Large Lutrin Wall Banner",
+  "race" : "lutrin",
+
+  "apexDescription" : "This banner is large...",
+  "avianDescription" : "A large banner! Charming!",
+  "floranDescription" : "Floran likesss thisss.",
+  "glitchDescription" : "Charmed. A large Lutrin banner...",
+  "humanDescription" : "The Lutrin banner is quite lovely.",
+  "hylotlDescription" : "I should get moving before any Lutrin patrols possibly come this way...",
+  "novakidDescription" : "This would look great in my house.",
+  "lutrinDescription" : "Heh. One of those old banners from the academies.",  
+
+
+  "inventoryIcon" : "lutrinbannerlargeicon.png",
+  "orientations" : [
+    {
+      "image" : "lutrinbannerlarge.png:<color>",
+      "imagePosition" : [2, -2],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : []
+
+    }
+  ]
+}

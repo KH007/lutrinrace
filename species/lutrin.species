@@ -1,0 +1,198 @@
+{
+  "kind" : "lutrin",
+	"charCreationTooltip" : {
+	"title" : "lutrin",
+	"subTitle" : "O2",
+	"description" : "Large, predatory bipedal otters. Keep an eye on them around the Hylotl...
+  Note: you'll have to force the un-morphing in the Vanilla Apex story mission in order to progress at one point. Just keep holding the tech key to do so."
+  },
+  "humanoidConfig" : "/species/lutrin.config",
+  "nameGen" : [ "/species/lutrinnamegen.config:names", "/species/lutrinnamegen.config:names" ],
+  "ouchNoises" : [ "/sfx/humanoid/lutrinhurt1.ogg", "/sfx/humanoid/lutrinhurt2.ogg",  "/sfx/humanoid/lutrinhurt3.ogg"],
+  "charGenTextLabels" : [ "Fur pattern", "Hairstyle", "Shirt", "Pants", "Belly colour", "Back colour", "Shirt Colour", "Pants Colour", "lutrin", "Personality" ],
+  "skull" : "/humanoid/lutrin/dead.png",
+  "effectDirectives" : "?replace=FEFFFFFF=FFFFFFFF?replace=9bd4ffFF=63ffe7FF?replace=31a6ffFF=00f5b3FF",
+  "defaultBlueprints" : {
+    "tier1" : [
+  /*Empty Hands*/
+      { "item" : "flaglutrin" },
+/*Anvil*/
+      { "item" : "lutrintier1head" },
+      { "item" : "lutrintier1chest" },
+      { "item" : "lutrintier1pants" },
+      { "item" : "lutrintier2head" },
+      { "item" : "lutrintier2chest" },
+      { "item" : "lutrintier2pants" },
+      { "item" : "lutrint1spear" },
+      { "item" : "lutrint1sword" },
+      { "item" : "lutrint2spear" },
+      { "item" : "lutrint2sword" },
+      { "item" : "ironshortsword" },
+      { "item" : "ironbroadsword" },
+      { "item" : "tungstenaxe" },
+      { "item" : "tungstenhammer" },
+/*Anvil2*/
+      { "item" : "lutrintier3head" },
+      { "item" : "lutrintier3chest" },
+      { "item" : "lutrintier3pants" },
+      { "item" : "lutrintier4head" },
+      { "item" : "lutrintier4chest" },
+      { "item" : "lutrintier4pants" },
+      { "item" : "lutrint3spear" },
+      { "item" : "lutrint3sword" },
+      { "item" : "lutrint4spear" },
+      { "item" : "lutrint4sword" },
+      { "item" : "titaniumdagger" },
+      { "item" : "titaniumspear" },
+      { "item" : "durasteelbroadsword" },
+      { "item" : "durasteelshortsword" },
+/*Anvil3*/
+      { "item" : "lutrintier5ahead" },
+      { "item" : "lutrintier5achest" },
+      { "item" : "lutrintier5apants" },
+      { "item" : "lutrintier6ahead" },
+      { "item" : "lutrintier6achest" },
+      { "item" : "lutrintier6apants" },
+      { "item" : "lutrintier5mhead" },
+      { "item" : "lutrintier5mchest" },
+      { "item" : "lutrintier5mpants" },
+      { "item" : "lutrintier6mhead" },
+      { "item" : "lutrintier6mchest" },
+      { "item" : "lutrintier6mpants" },
+      { "item" : "lutrintier5shead" },
+      { "item" : "lutrintier5schest" },
+      { "item" : "lutrintier5spants" },
+      { "item" : "lutrintier6shead" },
+      { "item" : "lutrintier6schest" },
+      { "item" : "lutrintier6spants" },
+      { "item" : "lutrint5aspear" },
+      { "item" : "lutrint5asword" },
+      { "item" : "lutrint5mspear" },
+      { "item" : "lutrint5msword" },
+      { "item" : "lutrint5sspear" },
+      { "item" : "lutrint5ssword" },
+      { "item" : "lutrint6aspear" },
+      { "item" : "lutrint6asword" },
+      { "item" : "lutrint6mspear" },
+      { "item" : "lutrint6msword" },
+      { "item" : "lutrint6sspear" },
+      { "item" : "lutrint6ssword" },
+      { "item" : "aegisaltpistol" },
+      { "item" : "aegisaltbow" },
+      { "item" : "feroziumwand" },
+      { "item" : "feroziumstaff" },
+      { "item" : "violiumshortsword" },
+      { "item" : "violiumbroadsword" },
+/*Furniture Table 2*/
+      { "item" : "lutrinstoragelocker" },
+      { "item" : "lutrinshipdoor" },
+      { "item" : "lutrinshiphatch" },
+/*Spinning Wheel*/
+      { "item" : "lutrinoutfit1chest" },
+      { "item" : "lutrinoutfit1head" },
+      { "item" : "lutrinnullhead" },
+      { "item" : "lutrinnulllegs" },
+      { "item" : "lutrinnullback" },
+      { "item" : "lutrinnullchest" },
+
+/*Special*/
+      { "item" : "lutrinmerchant" }
+
+	  ]
+  },
+
+  "altOptionAsUndyColor" : true,
+  "headOptionAsHairColor" : true,
+  "altOptionAsHairColor" : true,
+  "hairColorAsBodySubColor" : true,
+  "genders" : [
+    {
+       "name" : "male",
+      "image" : "/interface/title/lutrinmaleico.png",
+      "characterImage" : "/interface/title/lutrinmale.png",
+      "hair" : [ "0", "1", "2", "3", "4", "5", "male1", "male2", "male3", "male4", "male5"],
+      "shirt" : [ "lutrinnullchest" ],
+      "pants" : [ "lutrinnulllegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    },
+    {
+      "name" : "female",
+      "image" : "/interface/title/lutrinfemico.png",
+      "characterImage" : "/interface/title/lutrinfemale.png",
+      "hair" : [ "0", "1", "2", "3", "4", "5", "fem1", "fem2", "fem3", "fem4", "fem5"],
+      "shirt" : [ "lutrinnullchest" ],
+      "pants" : [ "lutrinnulllegs" ],
+      "facialHairGroup" : "",
+      "facialHair" : [ ],
+      "facialMaskGroup" : "",
+      "facialMask" : [ ]
+    }
+  ],
+  "bodyColor" : [/*Body patterns*/
+    /*NO PATTERN*/
+    { "ff0000" : "ececec", "cf0000" : "363636", "00ff00" : "ececec", "00c900" : "363636", "0000ff" : "ececec", "0000a0" : "363636", "fc00ff" : "ececec", "e200e5" : "cfcfcf", "c700c9" : "727272", "a700a9" : "363636" },
+    /*NECK*/
+    { "ff0000" : "ffff00", "cf0000" : "aaaa00", "00ff00" : "ececec", "00c900" : "363636", "0000ff" : "ececec", "0000a0" : "363636", "fc00ff" : "ececec", "e200e5" : "cfcfcf", "c700c9" : "727272", "a700a9" : "363636" },
+    /*CHEST*/
+    { "ff0000" : "ffff00", "cf0000" : "aaaa00", "00ff00" : "ffff00", "00c900" : "aaaa00", "0000ff" : "ececec", "0000a0" : "363636", "fc00ff" : "ececec", "e200e5" : "cfcfcf", "c700c9" : "727272", "a700a9" : "363636" },
+    /*BELLY*/
+    { "ff0000" : "ffff00", "cf0000" : "aaaa00", "00ff00" : "ffff00", "00c900" : "aaaa00", "0000ff" : "ffff00", "0000a0" : "aaaa00", "fc00ff" : "ececec", "e200e5" : "cfcfcf", "c700c9" : "727272", "a700a9" : "363636" },
+    /*GROIN*/
+    { "ff0000" : "ffff00", "cf0000" : "aaaa00", "00ff00" : "ffff00", "00c900" : "aaaa00", "0000ff" : "ffff00", "0000a0" : "aaaa00", "fc00ff" : "ffff00", "e200e5" : "e7ea00", "c700c9" : "cdcf00", "a700a9" : "aaaa00" }
+  ],
+  "hairColor" : [/*backfur color selection*/
+    /*CHOCOLATE (ORIGINAL)*/
+    { "ececec" : "965200", "cfcfcf" : "8d5007", "727272" : "734500", "363636" : "713e00", "7e4e0c" : "7e4e0c" },
+    /*CREAM*/
+    { "ececec" : "fae4c8", "cfcfcf" : "f0d7b9", "727272" : "e4cbac", "363636" : "e2ceb6", "7e4e0c" : "e2e0dc" },
+    /*COPPER*/
+    { "ececec" : "f7a671", "cfcfcf" : "e99d6b", "727272" : "dc9465", "363636" : "d08b5f", "7e4e0c" : "dfa27d" },
+    /*SILVER*/
+    { "ececec" : "c8c8c8", "cfcfcf" : "bbbbbb", "727272" : "afafaf", "363636" : "a2a2a2", "7e4e0c" : "b0c4d4" },
+    /*MELANISTIC*/
+    { "ececec" : "303030", "cfcfcf" : "202020", "727272" : "101010", "363636" : "000000", "7e4e0c" : "182c3c" },
+    /*SPIRIT*/
+    { "ececec" : "eaeaea", "cfcfcf" : "ececec", "727272" : "d0d0d0", "363636" : "c3c3c3", "7e4e0c" : "d2e6f7" },
+    /*ASHEN*/
+    { "ececec" : "808080", "cfcfcf" : "6f6f6f", "727272" : "626262", "363636" : "555555", "7e4e0c" : "78848c" },
+    /*GOLDEN*/
+    { "ececec" : "fbfc00", "cfcfcf" : "eee000", "727272" : "e2d400", "363636" : "d5c900", "7e4e0c" : "dff404" },
+    /*AZURE DYED*/
+    { "ececec" : "0000fb", "cfcfcf" : "0000d9", "727272" : "0000b7", "363636" : "000095", "7e4e0c" : "0000ff" },
+    /*ROYAL DYED*/
+    { "ececec" : "c100fb", "cfcfcf" : "b000db", "727272" : "9f00bb", "363636" : "8e009b", "7e4e0c" : "a800ff" },
+    /*CRIMSON DYED*/
+    { "ececec" : "e70d1a", "cfcfcf" : "cb0b16", "727272" : "b10913", "363636" : "9f0811", "7e4e0c" : "cf0926" },
+    /*VERDANT DYED*/
+    { "ececec" : "15e747", "cfcfcf" : "1ece48", "727272" : "1ab53f", "363636" : "189c38", "7e4e0c" : "00e354" }
+  ],
+  "undyColor" : [/*bellyfur color selection*/
+    /*CHOCOLATE*/
+    { "ffff00" : "9a5604", "e7ea00" : "915411", "cdcf00" : "7e4500", "aaaa00" : "713e00" },
+    /*CREAM (ORIGINAL)*/
+    { "ffff00" : "ffe8cc", "e7ea00" : "f4dbbd", "cdcf00" : "e0c7a9", "aaaa00" : "decab2" },
+    /*COPPER*/
+    { "ffff00" : "fbaa75", "e7ea00" : "eda16f", "cdcf00" : "e09869", "aaaa00" : "d48f63" },
+    /*SILVER*/
+    { "ffff00" : "cccccc", "e7ea00" : "bfbfbf", "cdcf00" : "b3b3b3", "aaaa00" : "a6a6a6" },
+    /*MELANISTIC*/
+    { "ffff00" : "343434", "e7ea00" : "242424", "cdcf00" : "141414", "aaaa00" : "040404" },
+    /*SPIRIT*/
+    { "ffff00" : "eeeeee", "e7ea00" : "e0e0e0", "cdcf00" : "d4d4d4", "aaaa00" : "c7c7c7" },
+    /*ASHEN*/
+    { "ffff00" : "848484", "e7ea00" : "737373", "cdcf00" : "666666", "aaaa00" : "595959" },
+    /*GOLDEN*/
+    { "ffff00" : "fff000", "e7ea00" : "f2e400", "cdcf00" : "e6d800", "aaaa00" : "d9cc00" },
+    /*AZURE DYED*/
+    { "ffff00" : "0404ff", "e7ea00" : "0404dd", "cdcf00" : "0404bb", "aaaa00" : "040499" },
+    /*ROYAL DYED*/
+    { "ffff00" : "c504ff", "e7ea00" : "b404df", "cdcf00" : "a304bf", "aaaa00" : "92049f" },
+    /*CRIMSON DYED*/
+    { "ffff00" : "eb111e", "e7ea00" : "cf0f1a", "cdcf00" : "b50d17", "aaaa00" : "a30c15" },
+    /*VERDANT DYED*/
+    { "ffff00" : "19eb4b", "e7ea00" : "22d24c", "cdcf00" : "1eb943", "aaaa00" : "1ca03c" }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/chatSounds/lutrin",
+    "value": {
+      "male": [
+        "/sfx/humanoid/lutrinchirp1.ogg",
+        "/sfx/humanoid/lutrinchirp2.ogg",
+        "/sfx/humanoid/lutrinchirp3.ogg"
+      ],
+      "female": [
+        "/sfx/humanoid/lutrinchirp1.ogg",
+        "/sfx/humanoid/lutrinchirp2.ogg",
+        "/sfx/humanoid/lutrinchirp3.ogg"
+      ]
+    }
+  }
+]

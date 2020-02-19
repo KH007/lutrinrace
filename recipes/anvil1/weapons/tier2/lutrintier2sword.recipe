@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "tungstenbar", "count" : 3 },
+    { "item" : "fabric", "count" : 2 }
+  ],
+  "output" : { "item" : "lutrintier2sword", "count" : 1 },
+  "groups" : [ "craftinganvil", "weapons", "all" ]
+}

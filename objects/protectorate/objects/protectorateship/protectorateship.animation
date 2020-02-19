@@ -1,0 +1,16 @@
+{
+  "globalTagDefaults" : {
+    "species" : "lutrin"
+  },
+
+  "animatedParts" : {
+    "parts" : {
+      "ship" : {
+        "properties" : {
+          "centered" : false,
+          "image" : "protectorateshiplutrin.png"
+        }
+      }
+    }
+  }
+}

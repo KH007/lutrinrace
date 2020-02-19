@@ -1,0 +1,7 @@
+[
+  {
+    "op":"add",
+    "path":"/lutrinDescription",
+    "value":"This is the FTL fuel hatch. If it's empty, I'm adrift in space or stuck in orbit."
+  }
+]

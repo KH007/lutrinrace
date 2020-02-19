@@ -1,0 +1,7 @@
+[
+  {
+    "op":"add",
+    "path":"/lutrinDescription",
+    "value":"The FTL fuel hatch. Unfortunately, it's currently broken."
+  }
+]

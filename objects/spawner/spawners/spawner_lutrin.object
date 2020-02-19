@@ -1,0 +1,57 @@
+{
+  "objectName" : "spawnerlutrin",
+  "colonyTags" : ["misc"],
+  "rarity" : "Common",
+  "description" : "Spawn your very own lutrin villager! Simply place and then leave the planet or ship. Once you return there will be an NPC.",
+  "shortdescription" : "Lutrin NPC Spawner",
+  "race" : "lutrin",
+  "printable" : false,
+  "category" : "spawner",
+  "price" : 100,
+
+  "apexDescription" : "Maybe I can reverse engineer this.",
+  "avianDescription" : "What could I possibly want with the Lutrin?",
+  "floranDescription" : "Floran not sssure if want to sssummon fur-fish.",
+  "glitchDescription" : "Surprised. These were all thought to be defunct or destroyed.",
+  "humanDescription" : "What could I possibly want with the Lutrin?",
+  "hylotlDescription" : "A Lutrin spawner. These shouldn't exist...",
+  "lutrinDescription" : "Huh, so these old things are still lying around... Nice!",
+
+  "inventoryIcon" : "defaulticon.png",
+  "orientations" : [
+    {
+      "image" : "spawner_lutrin.png",
+      "imagePosition" : [-8, 0],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom", "background" ]
+    }
+  ],
+
+  "scripts" : [ "/objects/spawner/spawners/spawner.lua" ],
+  "scriptDelta" : 1,
+  //6000,
+
+  "animation" : "/objects/spawner/spawners/lutrin.animation",
+
+  "animationParts" : {
+    "switch" : "spawner_lutrin.png"
+  },
+  "animationPosition" : [-8, 0],
+
+  "inputNodes" : [ ],
+  "outputNodes" : [ ],
+
+  "spawner" : {
+    "searchRadius" : 32.0,
+    "npcSpeciesOptions" : [ "lutrin" ],
+    "npcTypeOptions" : [ "villager" ],
+    "npcParameterOptions" : [
+      {
+        "dropPools" : [ ]
+      }
+    ]
+  }
+
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "op": "add",
+    "path": "/lutrinStarterTreasure",
+    "value": [[0, {
+      "fill" : [
+	    {"item" : [ "flashlight" ]},
+        {"item" : [ "torch", 10 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "cannedfood", 1 ]},
+        {"item" : [ "lutrinnullhead", 1 ]},
+        {"item" : [ "lutrinnullback", 1 ]},
+        {"item" : [ "lutrinprotectoratehead", 1 ]},
+        {"item" : [ "lutrinprotectoratechest", 1 ]},
+        {"item" : [ "lutrinnote-codex", 1]}
+      ]
+    }]]
+  }
+]

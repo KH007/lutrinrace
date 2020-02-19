@@ -1,0 +1,11 @@
+[
+    {
+        "op": "add",
+        "path": "/defaultCodexes/lutrin",
+        "value": [
+            "protectorate1",
+            "protectorate2",
+            "lutrindiary"
+        ]
+    }
+]

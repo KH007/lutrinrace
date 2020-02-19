@@ -1,0 +1,9 @@
+{
+  "name" : "fullblack",
+  "category" : "lutrinpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "fullblack.png"
+  }
+}

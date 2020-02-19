@@ -1,0 +1,39 @@
+{
+  "itemName" : "lutrint6sspear",
+  "price" : 0,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "description" : "Sufficiently advanced (and sturdy) tech.",
+  "shortdescription" : "Lutrin Solarium-Violium spear",
+  "tooltipKind" : "sword",
+  "category" : "spear",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","lutrin","spear"],
+  "inventoryIcon" : "t6s.png",
+  "animation" : "/items/active/weapons/melee/spear/spear.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "t6s.png"
+   },
+  "animationCustom" : {
+        "sounds" : {
+        "fire" : [ "/sfx/melee/swing_spear.ogg" ]
+       }
+     },
+
+       "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+       "elementalType" : "physical",
+
+       "aimOffset" : -1.0,
+
+       "primaryAbilityType" : "spearstab",
+       "primaryAbility" : {
+         "fireTime" : 1.1,
+         "baseDps" : 20
+       },
+
+       "altAbilityType" : "flurry",
+
+       "builder" : "/items/buildscripts/buildunrandweapon.lua"
+     }

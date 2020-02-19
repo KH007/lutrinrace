@@ -1,0 +1,17 @@
+[
+	{
+		"op": "add",
+		"path": "/initialquests/lutrin",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/lutrin",
+		"value": {
+			"male": "neutral",
+			"female": "neutral"
+		}
+	}
+]

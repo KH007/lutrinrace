@@ -1,0 +1,91 @@
+[
+  {
+    "op": "add",
+    "path": "/hail/lutrin",
+    "value": {
+      "default": [
+        "I got my eyes on you.",
+        "Keep walking.",
+        "Check yourself.",
+        "Move along."
+      ],
+      "hylotl": [
+        "Don't go causing trouble, Hylotl... there's a few of us out there who aren't as willing to follow the treaty as I am.",
+        "Stick to the main path unless you want to end up... disappearing. Some of us have begun to embrace our past.",
+        "I don't recommend acting out surrounded by predators, hylotl, even with the treaty."
+      ],
+      "floran": [
+        "Don't go causing trouble, Floran... We still remember how you tried taking our niche."
+      ],
+      "Attarran": [
+        "Hello.",
+        "Look after yourself, small one.",
+        "Good to see a fellow L... Wait, you're an Attarran! My apologies! Good to see you nonetheless."
+      ],
+      "lutrin": [
+        "Hello.",
+        "Look after yourself, my friend.",
+        "Good to see a fellow Lutrin.",
+        "Heyo."
+      ]
+    }
+  },
+  {
+    "op":"add",
+    "path":"/weaponwarning1/lutrin",
+    "value":{
+      "default":[
+        "Traveller, put your weapon away.",
+        "Calm down, traveller.",
+        "Holster the weapon.",
+        "I don't care what your world's constitution says. No weapons in public."
+      ]
+    }
+  },
+  {
+    "op":"add",
+    "path":"/weaponwarning2/lutrin",
+    "value":{
+      "default":[
+        "Second warning, stranger - put the weapon down.",
+        "I said sheathe it!",
+        "Don't test me, friend.",
+        "Sheath the weapon in its' proper location now, or I'll sheath it up your rear end for you, you \"kritalaki\"!"
+      ]
+    }
+  },
+  {
+    "op":"add",
+    "path":"/weaponwarning3/lutrin",
+    "value":{
+      "default":[
+        "You are sorely tempting me, stranger.",
+        "Your weapon. Put it away, now.",
+        "Final warning - drop the weapon."
+      ]
+    }
+  },
+  {
+    "op":"add",
+    "path":"/weaponSheathed/lutrin",
+    "value":{
+      "default":[
+        "Thank you. Carry on now.",
+        "That's better.",
+        "Appreciated.",
+        "Carry on."
+      ]
+    }
+  },
+  {
+    "op":"add",
+    "path":"/comeBack/lutrin",
+    "value":{
+      "default":[
+        "I'm talking to you.",
+        "Get back here.",
+        "Your hearing isn't that bad, pay attention!"
+      ]
+    }
+  }
+]

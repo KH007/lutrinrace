@@ -1,0 +1,45 @@
+{
+  "objectName" : "flaglutrin",
+  "colonyTags" : ["lutrin"],
+  "printable" : false,
+  "rarity" : "Common",
+  "objectType" : "teleporter",
+  "category" : "decorative",
+  "price" : 70,
+
+  "description" : "A holoprojector with the tri-color emblem of the Lutrin.",
+  "shortdescription" : "Lutrin Flag",
+  "race" : "lutrin",
+
+  "apexDescription" : "One day we'll see this emblem on our own world, aiding the resistance.",
+  "avianDescription" : "The otters known as the Lutrin have even gotten here... I wonder how long this flag has been here?",
+  "floranDescription" : "A Fur-fish? Here? Thingss have gotten much more interesting...",
+  "glitchDescription" : "Observation. The Lutrin flag seems to be a lightning motif imposed upon a wreath icon.",
+  "humanDescription" : "Looks like those large otters have gotten to this place as well... Despite being everywhere, they're really hard to find.",
+  "hylotlDescription" : "Hylotl colonies get uneasy when they see craft bearing this emblem in orbit... I get a bit uneasy, knowing that a Lutrin is nearby.",
+  "lutrinDescription" : "Our flag. It's a symbol of our past, present, and beliefs.",
+
+  "interactAction" : "OpenTeleportDialog",
+  "interactData" : "/interface/warping/destinationonly.config",
+
+  "inventoryIcon" : "flaglutrinicon.png",
+  "orientations" : [
+{
+      "imageLayers" : [ { "image" : "flaglutrin.png:<color>.<frame>", "fullbright" : true  }, { "image" : "flaglutrinlit.png:<color>.<frame>" } ],
+      "flipImages" : true,
+      "imagePosition" : [-17, 0],
+      "direction" : "left",
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "anchors" : [ "bottom" ]
+    },
+    {
+      "imageLayers" : [ { "image" : "flaglutrin.png:<color>.<frame>", "fullbright" : true  }, { "image" : "flaglutrinlit.png:<color>.<frame>" } ],
+      "imagePosition" : [1, 0],
+      "direction" : "right",
+      "frames" : 6,
+      "animationCycle" : 1.0,
+      "anchors" : [ "bottom" ]
+    }
+  ]
+}

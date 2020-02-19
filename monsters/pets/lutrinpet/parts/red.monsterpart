@@ -1,0 +1,9 @@
+{
+  "name" : "red",
+  "category" : "lutrinpet",
+  "type" : "body",
+
+  "frames" : {
+    "body" : "red.png"
+  }
+}

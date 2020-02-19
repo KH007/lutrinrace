@@ -1,0 +1,16 @@
+[
+	{ "op" : "add",
+		"path" : "/speciesShips/lutrin",
+		"value" : [
+		    "/ships/lutrin/lutrint0.structure",
+			"/ships/lutrin/lutrint1.structure",
+			"/ships/lutrin/lutrint2.structure",
+			"/ships/lutrin/lutrint3.structure",
+			"/ships/lutrin/lutrint4.structure",
+			"/ships/lutrin/lutrint5.structure",
+			"/ships/lutrin/lutrint6.structure",
+			"/ships/lutrin/lutrint7.structure",
+			"/ships/lutrin/lutrint8.structure"
+		]
+	}
+]

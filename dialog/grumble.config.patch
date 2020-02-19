@@ -1,0 +1,50 @@
+[
+  {
+    "op": "add",
+    "path": "/tagCriteria/lutrin",
+    "value": {
+      "default": [
+        "Things have changed, and I don’t like it whatsoever."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/enclosedArea/lutrin",
+    "value": {
+      "default": [
+        "This isn’t how I wanted this; fix it now."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/otherDeed/lutrin",
+    "value": {
+      "default": [
+        "*GROWL*",
+        "*SNARL*"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/severe/lutrin",
+    "value": {
+      "default": [
+        "You can fix this, or fight me.",
+        "Fix what’s wrong here. Don’t make me come after you."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/final/lutrin",
+    "value": {
+      "default": [
+        "Forget this, I'm outta here!",
+        "Fine. You broke it, you gotta deal with the consequences. I’m out."
+      ]
+    }
+  }
+]

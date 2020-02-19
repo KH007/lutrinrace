@@ -1,0 +1,39 @@
+[
+	{
+		"op": "add",
+		"path": "/helpme/lutrin",
+		"value": {
+			"default": [
+				"Eek! Help me!",
+				"Help!",
+				"Uh-oh.",
+				"I can't hit it! Help!",
+				"I need help! I didn't pay attention in combat class!",
+				"Ah! Stop it!",
+				"Hey! What did I do!?"
+			]
+		}
+	},
+	{
+    "op": "add",
+    "path": "/helpthem/lutrin",
+    "value": {
+      "default": [
+        "Move it!",
+        "Hrrmph."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/encourage/lutrin",
+    "value": {
+      "default": [
+        "Go! Go! Go!",
+        "Woot!",
+        "You got this!",
+        "*Excited chirping*"
+      ]
+    }
+  }
+]

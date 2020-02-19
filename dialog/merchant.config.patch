@@ -1,0 +1,62 @@
+[
+  {
+    "op": "add",
+    "path": "/merchantStart/lutrin",
+    "value": {
+      "default": [
+        "Welcome to my store.",
+        "How may I help you?",
+        "Welcome welcome welcome."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/merchantEnd/lutrin",
+    "value": {
+      "default": [
+        "See you next time!",
+        "Please come back soon",
+        "Your pixels are always accepted here.",
+        "Pleasure doing business with you!",
+        "It was a pleasure having you here.",
+        "Great to see you!",
+        "Let's do business again sometime."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/follow/lutrin",
+    "value": {
+      "default": [
+        "Right this way.",
+        "Please, follow me.",
+        "Come with me."
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/welcome/lutrin",
+    "value": {
+      "default": [
+        "Welcome!",
+        "Let's get to business.",
+        "Now that we are here, how may I help you?"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/tout/lutrin",
+    "value": {
+      "default" : [
+        "Goods for sale!",
+        "Oi, mister, come check out my amazing wares!",
+        "Best deals in the star system, right here!",
+        "Cheap buys!"
+      ]
+    }
+  }
+]

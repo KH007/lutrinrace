@@ -1,0 +1,10 @@
+[{
+		"op" : "add",
+		"path" : "/species/lutrin",
+		"value" : {
+			"aiFrames" : "lutrinAI.png",
+			"portraitFrames" : "portraits/lutrinportrait.png",
+			"staticFrames" : "staticlutrin.png"	
+		}
+	}
+]

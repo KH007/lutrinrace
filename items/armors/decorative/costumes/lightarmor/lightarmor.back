@@ -1,0 +1,29 @@
+{
+  "itemName" : "attarranlightarmorback",
+  "price" : 750,
+  "inventoryIcon" : "icons.png:back",
+  "rarity" : "Rare",
+  "category" : "backwear",
+  "description" : "Apparently, all the information on a given individual is stored on this disc, but only the individual assigned to it can utilize the data correctly...",
+  "shortdescription" : "Light Disc",
+  "tooltipKind" : "back",
+
+  "maleFrames" : "back.png",
+  "femaleFrames" : "back.png",
+  "maxStack" : 1,
+
+  "colorOptions" : [
+    { "ffffff" : "00ffff" },
+    { "ffffff" : "ff0080" },
+    { "ffffff" : "ffffff" },
+    { "ffffff" : "00ffff", "101010":"f0f0f0", "1b1b1b":"e3e3e3" },
+    { "ffffff" : "ff0000" },
+    { "ffffff" : "ff8000" },
+    { "ffffff" : "ffff00" },
+    { "ffffff" : "00ff00" },
+    { "ffffff" : "0000ff" },
+    { "ffffff" : "8000ff" },
+    { "ffffff" : "ff00ff" },
+    { "ffffff" : "ff9000" }
+  ]
+}

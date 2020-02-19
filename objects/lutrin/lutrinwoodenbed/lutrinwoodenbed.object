@@ -1,0 +1,47 @@
+{
+  "objectName" : "lutrinwoodenbed",
+  "colonyTags" : ["lutrin"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A comfy wooden bed.",
+  "shortdescription" : "Wooden Bed",
+  "race" : "lutrin",
+  "category" : "furniture",
+  "price" : 45,
+
+  "apexDescription" : "A simple wooden bed, nice and comfortable. Oddly large, though.",
+  "avianDescription" : "A wooden frame and a comfortable mattress. What more could you need? It even has a bit of extra space.",
+  "floranDescription" : "Floran rarely ssleep in ssuch nice, big b- I ssmell fur-fish nearby. Musst sstay alert.",
+  "glitchDescription" : "Drowsy. My power levels are low. This bed looks inviting, even if big.",
+  "humanDescription" : "Your basic, comfy bed. A bit large, though...",
+  "hylotlDescription" : "A good place to close one's eyes, though it's- uh oh. I should get going, this is too large and smells like an otter, which usually means one thing.",
+  "novakidDescription" : "A decent place to get some shut-eye. Surprisingly big, for whatever reason...",
+  "lutrinDescription" : "A good place to rest up and recover after a long day.",
+
+  "inventoryIcon" : "lutrinwoodenbedicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lutrinwoodenbed.png:<color>",
+
+      "imagePosition" : [-24, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : true,
+  "sitPosition" : [-10, 14],
+  "sitOrientation" : "lay",
+  "sitAngle" : 90,
+  "sitCoverImage" : "/objects/lutrin/lutrinwoodenbed/lutrinwoodenbedcover.png",
+  "sitEmote" : "sleep",
+  "sitStatusEffects" : [
+    "bed1"
+  ],
+  "sitEffectEmitters" : [ "sleepbubbles" ]
+}

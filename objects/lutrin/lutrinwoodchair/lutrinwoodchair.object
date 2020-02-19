@@ -1,0 +1,39 @@
+{
+  "objectName" : "lutrinwoodchair",
+  "colonyTags" : ["lutrin"],
+  "rarity" : "Common",
+  "description" : "A basic wooden chair.",
+  "shortdescription" : "Wooden Padded Chair",
+  "race" : "generic",
+  "category" : "furniture",
+  "price" : 75,
+
+  "apexDescription" : "A very plain-looking wooden chair, though somewhat large.",
+  "avianDescription" : "A wooden chair with a red pillow on it. A bit big, though...",
+  "floranDescription" : "Pillow make chair sssoft.",
+  "glitchDescription" : "Disinterested. A boring wooden chair like any other, size notwithstanding.",
+  "humanDescription" : "A simple big chair.",
+  "hylotlDescription" : "A mostly unremarkable wooden ch- hang on a sec, are those some brown fur strands?",
+  "novakidDescription" : "A big chair made outta wood.",
+  "lutrinDescription" : "A rather dull chair.",
+
+  "inventoryIcon" : "lutrinwoodchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lutrinwoodchair.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [2, 22]
+
+}
