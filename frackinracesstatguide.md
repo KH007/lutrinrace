@@ -16,7 +16,9 @@ Their slower speed (higher mass means slower movement speed. How slow can change
 
 Their increased Health and Power stats. (same reason as above, as more muscle mass means more power behind their strikes and more hits they can handle.)
 
-Their increased Protection. (Fur's a pretty good cushion against physical strikes.)
+Their increased Physical resistance. (Fur's a pretty good cushion against physical strikes.)
+
+Their Ice resistance and Fire weakness. (Fur's a good insulator, and theirs is rather thick.)
 
 ```diff
 Diet: Semi-Carnivore, and the fresher the food, the better... for the most part. They can handle fruits, but they don't handle other plant-based foods well.
