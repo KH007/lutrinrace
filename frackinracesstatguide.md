@@ -3,9 +3,13 @@
 Here, you can see the stats for the Lutrin race.
 
 Lutrin are intended to be large and slightly slow, but to excel when it comes to watery things and spears. The few thing I won't change about them is as follows:
+
 their big hitbox (this one's final.)
+
 the fact that they have a high metabolism (I am willing to change how fast they burn calories.)
+
 Their larger lungs (I am willing to change how much air they have.)
+
 Their slower speed (higher mass means slower movement speed.)
 
 ```diff
