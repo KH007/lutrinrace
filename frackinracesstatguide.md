@@ -10,7 +10,7 @@ the fact that they have a high metabolism (I am willing to change how fast they 
 
 Their larger lungs (I am willing to change how much air they have.)
 
-Their slower speed (higher mass means slower movement speed.)
+Their slower speed (higher mass means slower movement speed. How slow can change, but they've still gotta be slower.)
 
 ```diff
 Diet: Semi-Carnivore, and the fresher the food, the better... for the most part. They can handle fruits, but they don't handle other plant-based foods well.
