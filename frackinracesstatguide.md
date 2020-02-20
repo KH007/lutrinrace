@@ -31,16 +31,18 @@ Large Profile (5 blocks tall) [Vanilla]. You may have to force the untransformin
 + 25% resistance to Ice attacks.
 - 10% vulnerability to Poison attacks.
 - 25% vulnerability to Radiation and Fire attacks.
-- +50% fall damage.
+- +15% fall damage.
 + Immune to Wet
 + Oxygen Capacity: 1500 units total.
 + Swim Boost 2
 + 100% breath regen rate
 + 50% stomach capacity
 - Very high metabolism (double hunger point usage rate)
-+ Gain 10%, 15%, or 20% additional Attack Power and Max Energy, and drop the speed penalty in humid, riverine, or oceanic biomes, respectively. Additionally, you gain an additional 5% speed buff in the last of those three biome types.
-- Lose 10% or 20% of your Attack Power and Max Energy in arid or active volcanic biomes, respectively, and have an additional 5% slowdown in these biomes.
-+ 5% increased damage w/ Melee weapons
++ Gain 10% additional Attack Power and Max Energy, and drop the speed penalty in humid biomes.
++ Gain 15% additional Attack Power and Max Energy, and drop the speed penalty in riverine biomes.
++ Gain 20% additional Attack Power and Max Energy, and increase your speed to 105% in oceanic biomes
+- Lose 10% of your Attack Power and Max Energy and have an additional 5% slowdown in arid biomes.
+- Lose 20% of your Attack Power and Max Energy and have an additional 5% slowdown in active volcanic biomes.
 + 10% increased damage and +3% crit rate w/ fist weapons
 + 10% increased damage and protection w/ Shortspears
 + 20% increased damage and protection w/ Quarterstaves and Spears
