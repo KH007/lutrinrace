@@ -1,0 +1,30 @@
+{
+  "itemName" : "lightarmorhead",
+  "price" : 480,
+  "inventoryIcon" : "icons.png:head",
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "headarmour",
+  "description" : "This full-head helmet provides a real-time display of whatever's going on around an individual. The seeming opaqueness is just for design purposes, as the front part is actually see-through from the inside.",
+  "shortdescription" : "Light Helmet",
+  "tooltipKind" : "armor",
+
+  "maleFrames" : "head.png",
+  "femaleFrames" : "head.png",
+  "mask" : "mask.png",
+
+  "colorOptions" : [
+    { "ffffff" : "00ffff" },
+    { "ffffff" : "ff0080" },
+    { "ffffff" : "ffffff" },
+    { "ffffff" : "00ffff", "101010":"f0f0f0", "1b1b1b":"e3e3e3" },
+    { "ffffff" : "ff0000" },
+    { "ffffff" : "ff8000" },
+    { "ffffff" : "ffff00" },
+    { "ffffff" : "00ff00" },
+    { "ffffff" : "0000ff" },
+    { "ffffff" : "8000ff" },
+    { "ffffff" : "ff00ff" },
+    { "ffffff" : "ff9000" }
+  ]
+}
