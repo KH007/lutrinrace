@@ -1,20 +1,20 @@
 {
-  "itemName" : "lutrinoutfit5chest",
-  "price" : 0,
-  "inventoryIcon" : "icons.png:chest",
+  "itemName" : "lutrinoutfit5legs",
+  "price" : 800,
+  "inventoryIcon" : "icons.png:legs",
   "maxStack" : 1,
-  "rarity" : "Common",
-  "category" : "chestwear",
-  "description" : "The upper part of a standard-issue uniform of the Lutrinian Armed Forces.",
-  "shortdescription" : "Soldier's Uniform (shirt)",
+  "rarity" : "Rare",
+  "category" : "legarmour",
+  "description" : "The lower part of a standard-issue uniform for the Lutrin Armed Forces.",
+  "shortdescription" : "Soldier's uniform (lower torso)",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "pantsm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chest.png",
+    "body" : "pantsf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },

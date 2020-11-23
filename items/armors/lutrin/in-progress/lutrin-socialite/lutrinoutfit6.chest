@@ -1,26 +1,26 @@
 {
-  "itemName" : "lutrinoutfit5chest",
+  "itemName" : "lutrinoutfit6chest",
   "price" : 0,
   "inventoryIcon" : "icons.png:chest",
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "The upper part of a standard-issue uniform of the Lutrinian Armed Forces.",
-  "shortdescription" : "Soldier's Uniform (shirt)",
+  "description" : "INSERT DESCRIPTION",
+  "shortdescription" : "Lutrin Socialite's outfit",
   "tooltipKind" : "armor",
   "maleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestm.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "femaleFrames" : {
-    "body" : "chest.png",
+    "body" : "chestf.png",
     "backSleeve" : "bsleeve.png",
     "frontSleeve" : "fsleeve.png"
   },
   "colorOptions" : [
-    // OLIVE
-    { "ffca8a" : "b5b5b5", "e0975c" : "808080", "a85636" : "91956c", "6f2919" : "4f563c" },
+    // BLUE
+    { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
     // BLACK
     { "ffca8a" : "838383", "e0975c" : "555555", "a85636" : "383838", "6f2919" : "151515" },
     // GREY
