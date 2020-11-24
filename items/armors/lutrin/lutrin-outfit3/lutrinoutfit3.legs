@@ -1,17 +1,23 @@
 {
-  "itemName" : "lutrinoutfit3head",
-  "price" : 0,
-  "type" : "Head",
-  "inventoryIcon" : "icons.png:head",
+  "itemName" : "lutrinoutfit3legs",
+  "price" : 800,
+  "inventoryIcon" : "icons.png:legs",
   "maxStack" : 1,
-  "rarity" : "Common",
-  "category" : "headwear",
-  "description" : "This is decent headwear, though it won't provide much protection at all.",
-  "shortdescription" : "Baseball cap",
+  "rarity" : "Rare",
+  "category" : "legarmour",
+  "description" : "INSERT DESCRIPTION",
+  "shortdescription" : "Officer's Uniform",
   "tooltipKind" : "armor",
-  "maleFrames" : "head.png",
-  "femaleFrames" : "head.png",
-  "mask" : "mask.png",
+  "maleFrames" : {
+    "body" : "pants.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
+  "femaleFrames" : {
+    "body" : "pants.png",
+    "backSleeve" : "bsleeve.png",
+    "frontSleeve" : "fsleeve.png"
+  },
   "colorOptions" : [
     // BLUE
     { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },

@@ -1,23 +1,15 @@
 {
-  "itemName" : "lutrinoutfit4chest",
-  "price" : 0,
-  "inventoryIcon" : "icons.png:chest",
+  "itemName" : "lutrinoutfit2legs",
+  "price" : 800,
+  "inventoryIcon" : "icons.png:legs",
   "maxStack" : 1,
-  "rarity" : "Common",
-  "category" : "chestwear",
-  "description" : "A comfy tee, emblazoned with the logo of the Terrene Protectorate.",
-  "shortdescription" : "Protectorate T-Shirt",
+  "rarity" : "Rare",
+  "category" : "legarmour",
+  "description" : "A simple, comfy, and warm overgarment. Can't go wrong with the basics!",
+  "shortdescription" : "Bathrobe",
   "tooltipKind" : "armor",
-  "maleFrames" : {
-    "body" : "chestm.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-  "femaleFrames" : {
-    "body" : "chestf.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
+  "maleFrames" : "pantsm.png",
+  "femaleFrames" : "pantsf.png",
   "colorOptions" : [
     // BLUE
     { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },

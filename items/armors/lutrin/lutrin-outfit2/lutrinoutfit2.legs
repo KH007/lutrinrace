@@ -1,23 +1,15 @@
 {
-  "itemName" : "lutrinoutfit2chest",
-  "price" : 0,
-  "inventoryIcon" : "icons.png:chest",
+  "itemName" : "lutrinoutfit2legs",
+  "price" : 800,
+  "inventoryIcon" : "icons.png:legs",
   "maxStack" : 1,
-  "rarity" : "Common",
-  "category" : "chestwear",
-  "description" : "A traditional formal tunic.",
-  "shortdescription" : "Lutrin Kimono Tunic",
+  "rarity" : "Rare",
+  "category" : "legarmour",
+  "description" : "This toga belongs to a civilian government official of decent rank.",
+  "shortdescription" : "Lutrin Government Toga",
   "tooltipKind" : "armor",
-  "maleFrames" : {
-    "body" : "chestm.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
-  "femaleFrames" : {
-    "body" : "chestf.png",
-    "backSleeve" : "bsleeve.png",
-    "frontSleeve" : "fsleeve.png"
-  },
+  "maleFrames" : "pantsm.png",
+  "femaleFrames" : "pantsf.png",
   "colorOptions" : [
     // BLUE
     { "ffca8a" : "96cbe7", "e0975c" : "5588d4", "a85636" : "344495", "6f2919" : "1a1c51" },
