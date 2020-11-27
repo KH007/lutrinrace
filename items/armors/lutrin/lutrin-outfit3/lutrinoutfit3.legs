@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "legarmour",
-  "description" : "INSERT DESCRIPTION",
-  "shortdescription" : "Officer's Uniform",
+  "description" : "This toga belongs to a military official of moderately-high rank.",
+  "shortdescription" : "Officer's Toga",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "pants.png",

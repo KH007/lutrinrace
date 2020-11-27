@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Common",
   "category" : "chestwear",
-  "description" : "A traditional formal tunic.",
-  "shortdescription" : "Lutrin Kimono Tunic",
+  "description" : "A traditional formal tunic, modified to indicate that one is in the Lutrinian Government's civilian wing.",
+  "shortdescription" : "Lutrin Government Tunic",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
