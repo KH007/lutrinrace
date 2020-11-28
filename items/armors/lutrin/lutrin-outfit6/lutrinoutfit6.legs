@@ -5,8 +5,8 @@
   "maxStack" : 1,
   "rarity" : "Rare",
   "category" : "legarmour",
-  "description" : "INSERT DESCRIPTION",
-  "shortdescription" : "Lutrin Socialite's outfit",
+  "description" : "A pretty-obvious replica of a piece of expensive overgarments.",
+  "shortdescription" : "Lutrin Socialite's toga",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "pants.png",
