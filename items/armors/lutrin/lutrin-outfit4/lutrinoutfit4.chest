@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "chestwear",
   "description" : "A stylishly formal tunic, complete with insignia showing that one is in the Lutrinian Government's diplomatic affairs wing.",
-  "shortdescription" : "Diplomat's Tunic",
+  "shortdescription" : "Diplomat's Uniform (upper)",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",

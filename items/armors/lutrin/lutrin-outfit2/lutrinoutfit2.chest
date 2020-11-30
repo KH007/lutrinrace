@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "chestwear",
   "description" : "A traditional formal tunic, modified to indicate that one is in the Lutrinian Government's civilian wing.",
-  "shortdescription" : "Lutrin Government Tunic",
+  "shortdescription" : "Lutrin Civilian Government Uniform (upper)",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",

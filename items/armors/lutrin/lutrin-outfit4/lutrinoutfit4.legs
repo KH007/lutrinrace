@@ -6,7 +6,7 @@
   "rarity" : "Rare",
   "category" : "legarmour",
   "description" : "This toga belongs to a diplomat of moderately-high rank.",
-  "shortdescription" : "Diplomat's Toga",
+  "shortdescription" : "Diplomat's Uniform (lower)",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "pants.png",

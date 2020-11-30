@@ -6,7 +6,7 @@
   "rarity" : "Common",
   "category" : "chestwear",
   "description" : "A practical formal tunic, complete with insignia showing that one is in the Lutrinian Government's military wing.",
-  "shortdescription" : "Officer's Tunic",
+  "shortdescription" : "Officer's Uniform (upper)",
   "tooltipKind" : "armor",
   "maleFrames" : {
     "body" : "chestm.png",
