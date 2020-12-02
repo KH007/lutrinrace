@@ -6,4 +6,4 @@ Special thanks to:
 FutaraDragon: Helped with the hitboxes and miscellaneous stuff.
 Sheights: Created the race that I modified the sprites of for an easier time making the species.
 PVTSkittlez: Created the Race Template mod used to get a head-start on the coding.
-Zancuno: Assisted with the body-sprite colorations and included a test world in their Lucario mod. Go check it out on the Steam workshop or on the Chucklefish modding forum!
+Zancuno: Assisted with the body-sprite colorations.
