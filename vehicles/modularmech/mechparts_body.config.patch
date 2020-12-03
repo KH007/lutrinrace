@@ -1,0 +1,42 @@
+[
+    {
+        "op": "add",
+        "path": "/lutrinproto",
+        "value": {
+            "stats": {
+                "energy": 3,
+                "protection": 3
+            },
+            "partParameters": {},
+            "partImages": {
+                "bodyBack": "body/lutrinproto_back.png",
+                "bodyFront": "body/lutrinproto_front.png"
+            },
+            "defaultPrimaryColors": [ "b5b5b5", "808080", "555555", "303030" ],
+            "defaultSecondaryColors": [ "c0ab5e", "9b7e14", "6b5509", "342804" ],
+            "animationCustom": {}
+        }
+    },
+    {
+        "op": "add",
+        "path": "/lutrin",
+        "value": {
+            "stats": {
+                "energy": 5,
+                "protection": 5
+            },
+            "partParameters": {
+                "hazardImmunities": [ "biomeradiation", "biomecold" ]
+            },
+            "partImages": {
+                "bodyBack": "body/lutrin_back.png",
+                "bodyFront": "body/lutrin_front.png",
+                "bodyFullbright": "body/lutrin_fullbright.png"
+            },
+            "defaultPrimaryColors": [ "ccae7c", "a47844", "754c23", "472b13" ],
+            "defaultSecondaryColors": [ "838383", "555555", "383838", "151515"
+            ],
+            "animationCustom": {}
+        }
+    }
+]

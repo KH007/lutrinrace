@@ -1,0 +1,15 @@
+{
+  "itemName" : "mechbodylutrin",
+  "price" : 9600,
+  "maxStack" : 1,
+  "rarity" : "Rare",
+  "category" : "mechPart",
+  "tooltipKind" : "mechbody",
+  "builder" : "/items/buildscripts/buildmechpart.lua",
+  "inventoryIcon" : "mechbodylutrin.png",
+  "description" : "A simple and elegant mech body, designed to have enough cabin space to hold a Lutrin.",
+  "shortdescription" : "Hunter Mech Body",
+  "itemTags" : [ ],
+
+  "mechPart" : ["body", "lutrin"]
+}
