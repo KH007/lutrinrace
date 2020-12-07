@@ -1,0 +1,39 @@
+{
+  "objectName" : "lutrinmodernchair",
+  "colonyTags" : ["lutrin"],
+  "rarity" : "Common",
+  "description" : "A contemporary chair.",
+  "shortdescription" : "Lutrin Modern Chair",
+  "race" : "lutrin",
+  "category" : "furniture",
+  "price" : 55,
+
+  "apexDescription" : "A large, suave seat.",
+  "avianDescription" : "A giant eggcup.",
+  "floranDescription" : "Sssilly large round chair.",
+  "glitchDescription" : "Satisfied. Designed for maximum comfort, though it is large.",
+  "humanDescription" : "This chair feels cushy. If it were a bit smaller, it might work well...",
+  "hylotlDescription" : "An attractively shaped chair, if a little cl... I spy otter fur.",
+  "novakidDescription" : "Funny lookin' large chair. I like it!",
+  "lutrinDescription" : "Finally, a chair that's actually comfortable.",
+
+  "inventoryIcon" : "lutrinmodernchairicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lutrinmodernchair.png:<color>",
+
+      "imagePosition" : [-8, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ]
+
+    }
+  ],
+
+  "objectType" : "loungeable",
+  "sitFlipDirection" : false,
+  "sitPosition" : [3, 24]
+
+}

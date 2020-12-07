@@ -1,0 +1,34 @@
+{
+  "objectName" : "lutrinmoderntable",
+  "colonyTags" : ["lutrin"],
+  "rarity" : "Common",
+  "description" : "A fancy modern table to place fancy modern things on.",
+  "shortdescription" : "Lutrin Modern Table",
+  "race" : "lutrin",
+  "category" : "furniture",
+  "price" : 60,
+
+  "apexDescription" : "A table made of something that looks like glass. I could see my hairy knees beneath it.",
+  "avianDescription" : "This table is built from a very strong glass-like substance.",
+  "floranDescription" : "Objectss placed on glasss table look floaty.",
+  "glitchDescription" : "Impressed. This material is transparent, lightweight, sturdy enough to hold lots of weight, and strong enough to take multiple hard impacts, whether from a crossbow bolt or a hammer.",
+  "humanDescription" : "A sophisticated glass-like table.",
+  "hylotlDescription" : "An attractive use of duraglass. It looks recently-cleaned.",
+  "novakidDescription" : "A see-through table.",
+  "lutrinDescription" : "A sophisticated duraglass table.",
+  "inventoryIcon" : "lutrinmoderntableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lutrinmoderntable.png:<color>",
+
+      "imagePosition" : [ -10, 0 ],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

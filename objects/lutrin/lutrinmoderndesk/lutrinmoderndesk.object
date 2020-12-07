@@ -1,0 +1,33 @@
+{
+  "objectName" : "apexcooltable",
+  "colonyTags" : ["lutrin","commerce"],
+  "rarity" : "Common",
+  "category" : "furniture",
+  "price" : 105,
+  "description" : "That sure is a cool table.",
+  "shortdescription" : "Cool Table",
+  "race" : "lutrin",
+
+  "apexDescription" : "A basic laboratory table. Someone should lower it so it's regulation height.",
+  "avianDescription" : "A tall alchemist's mixing station.",
+  "floranDescription" : "A table for experimentsss.",
+  "glitchDescription" : "Sarcastic. A very interesting find.",
+  "humanDescription" : "Looks like a lab table, though it's tall.",
+  "hylotlDescription" : "A table built for scientific use. Immaculately clean, too.",
+  "novakidDescription" : "A tall, metallic table.",
+  "lutrinDescription" : "A basic laboratory table.",
+  "inventoryIcon" : "apexcooltableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lutrinmoderndesk.png:<color>",
+      "imagePosition" : [-23, 0],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}

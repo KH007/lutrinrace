@@ -1,0 +1,35 @@
+{
+  "objectName" : "lutrinwoodtable",
+  "colonyTags" : ["commerce", "lutrin"],
+  "printable" : false,
+  "rarity" : "Common",
+  "description" : "A basic wooden table.",
+  "shortdescription" : "Lutrin Wooden Table",
+  "race" : "lutrin",
+  "category" : "furniture",
+  "price" : 15,
+
+  "apexDescription" : "A very simple, yet tall, wooden table.",
+  "avianDescription" : "The simplest of tables, if a bit tall.",
+  "floranDescription" : "Sssimple wood table.",
+  "glitchDescription" : "Bored. A very simple, if tall, table.",
+  "humanDescription" : "Not much to say about this table aside from it being taller than normal.",
+  "hylotlDescription" : "A table, very simple in every w... There's shed fur on it.",
+  "novakidDescription" : "Just a tall table.",
+  "lutrinDescription" : "Just your bog-standard table, nothing too fancy.",
+  "inventoryIcon" : "woodtableicon.png",
+  "orientations" : [
+    {
+      "dualImage" : "lutrinwoodtable.png:<color>",
+
+      "imagePosition" : [-20, 0],
+      "frames" : 1,
+      "animationCycle" : 1.0,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "bottom" ],
+      "collision" : "platform"
+
+    }
+  ]
+}
